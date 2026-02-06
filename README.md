@@ -1,0 +1,1 @@
+# samplesheet_collision_check

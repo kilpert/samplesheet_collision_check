@@ -1,0 +1,17 @@
+[Header]
+FileFormatVersion,2
+RunName,NoCollisionTest
+
+[Reads]
+151
+151
+
+[BCLConvert_Settings]
+SoftwareVersion,4.0.0
+
+[BCLConvert_Data]
+Lane,Sample_ID,Index,Index2
+1,Sample_01,AAAAAAAA,CCCCCCCC
+1,Sample_02,TTTTTTTT,GGGGGGGG
+2,Sample_03,AAAAAAAA,CCCCCCCC
+2,Sample_04,TTTTTTTT,GGGGGGGG
