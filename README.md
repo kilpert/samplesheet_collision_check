@@ -9,7 +9,7 @@ This script parses an Illumina `SampleSheet.csv` file (specifically the `[BCLCon
 ## Usage
 
 ```bash
-python samplesheet_collision_check.py [-v] <path_to_samplesheet>
+python samplesheet_collision_check.py [-v] <csv_path>
 ```
 
 ### Options
